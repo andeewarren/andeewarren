@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 📫 How to reach me **a.warren16@outlook.com**
+- 📫 How to reach me: **a.warren16@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/andeewarren/overlay/1635520651855/single-media-viewer/?profileId=ACoAAD-mabQBmADt_cueMt2ly9vCBT-tr4keGOs](https://www.linkedin.com/in/andeewarren/overlay/1635520651855/single-media-viewer/?profileId=ACoAAD-mabQBmADt_cueMt2ly9vCBT-tr4keGOs)
+- 📄 Know about my experiences [https://bit.ly/3zk4zMB](https://bit.ly/3zk4zMB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
